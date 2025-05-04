@@ -1,0 +1,49 @@
+=== Full Overlap (Note + Question) ===
+Total overlaps: 0
+Overlaps per Calculator ID:
+Series([], )
+Unique train rows removed: 0
+Remaining train rows: 9958
+
+=== Note-Only Overlap (Any Question) ===
+Total overlaps: 514
+Overlaps per Calculator ID:
+Calculator ID
+2     24
+3     15
+4      5
+5      6
+6     14
+7     16
+9     18
+10     9
+16     2
+17     4
+18     5
+19    15
+20     4
+22    21
+23    10
+25     5
+26    33
+27     8
+30    16
+32     6
+33     7
+38    26
+39    32
+40     8
+44     1
+45    27
+46     4
+48     9
+51    10
+60     5
+62    12
+63    28
+64    25
+65    39
+66    31
+67    14
+Unique train rows removed: 465
+Remaining train rows: 9493

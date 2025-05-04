@@ -1,3 +1,20 @@
+# Benlu added
+/test.ipynb
+json_output/
+eval.py
+eval_data/
+accuracy/
+test.md
+ds_accuracy/
+eval.sh
+cache/
+eval_data_new/
+eval_output/
+TwoAgent_results/
+*.jsonl
+nlp/
+stats/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -167,8 +184,15 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ruff stuff:
-.ruff_cache/
-
 # PyPI configuration file
 .pypirc
+
+/voting_output/
+/json_output/
+/raw_output/
+/eval_output/
+/local_files/
+.DS_Store
+dataset_cleaned/embedding_key_data.jsonl
+dataset_cleaned/embedding_key_data_new.jsonl
+*/test/*
